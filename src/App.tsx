@@ -38,7 +38,7 @@ function App() {
           <Input
             type="text"
             readOnly
-            value="CA:9aWzZAomrNJj7Q7MuaZ6XTNk4eKdNb3Yck5WuJB7pump"
+            value="CA:DhNxq6MSvdwG2ttzKwdeQuPjGvqxYw9HRw7etHJLBcTW"
             className="w-96 bg-gray-800 text-center text-white border-gray-700"
           />
         </div>
